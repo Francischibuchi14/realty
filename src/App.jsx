@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import './style.css';
-import image from './image/capture.png';
-import logo from './image/bctdg.png';
+import image from './assets/image/capture.png';
+import logo from './assets/image/bctdg.png';
 
 function App() {
   return (
